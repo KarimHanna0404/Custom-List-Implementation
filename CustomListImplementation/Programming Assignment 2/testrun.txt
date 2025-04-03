@@ -1,0 +1,271 @@
+Testing N = 10
+
+Testing MyArrayList with N = 10
+Insert@start(ms): 0.0911
+Insert@end(ms): 0.0188
+Insert@random(ms): 0.0317
+
+Testing MyLinkedList with N = 10
+Insert@start(ms): 0.7649
+Insert@end(ms): 0.0085
+Insert@random(ms): 0.0182
+
+Testing Java ArrayList with N = 10
+Insert@start(ms): 0.0194
+Insert@end(ms): 0.0064
+Insert@random(ms): 0.0125
+
+Testing Java LinkedList with N = 10
+Insert@start(ms): 0.1149
+Insert@end(ms): 0.0106
+Insert@random(ms): 0.0175
+
+Testing removal on MyArrayList with N = 10
+Remove@start(ms): 0.0094
+Remove@end(ms): 0.0022
+Remove@random(ms): 0.0068
+
+Testing removal on MyLinkedList with N = 10
+Remove@start(ms): 0.0096
+Remove@end(ms): 0.0041
+Remove@random(ms): 0.0082
+
+Testing removal on Java ArrayList with N = 10
+Remove@start(ms): 0.0106
+Remove@end(ms): 0.0055
+Remove@random(ms): 0.0135
+
+Testing removal on Java LinkedList with N = 10
+Remove@start(ms): 0.0338
+Remove@end(ms): 0.0078
+Remove@random(ms): 0.0231
+
+Testing random value removal on MyArrayList with N = 10
+Remove by value(ms): 0.0404
+
+Testing random value removal on MyLinkedList with N = 10
+Remove by value(ms): 0.0362
+
+Testing random value removal on Java ArrayList with N = 10
+Remove by value(ms): 0.0257
+
+Testing random value removal on Java LinkedList with N = 10
+Remove by value(ms): 0.0429
+--------------------------------------
+Testing N = 100
+
+Testing MyArrayList with N = 100
+Insert@start(ms): 0.3478
+Insert@end(ms): 0.0479
+Insert@random(ms): 0.1937
+
+Testing MyLinkedList with N = 100
+Insert@start(ms): 0.0582
+Insert@end(ms): 0.0505
+Insert@random(ms): 0.1595
+
+Testing Java ArrayList with N = 100
+Insert@start(ms): 0.161
+Insert@end(ms): 0.0502
+Insert@random(ms): 0.106
+
+Testing Java LinkedList with N = 100
+Insert@start(ms): 0.1208
+Insert@end(ms): 0.0721
+Insert@random(ms): 0.1706
+
+Testing removal on MyArrayList with N = 100
+Remove@start(ms): 0.34
+Remove@end(ms): 0.0275
+Remove@random(ms): 0.2518
+
+Testing removal on MyLinkedList with N = 100
+Remove@start(ms): 0.0389
+Remove@end(ms): 0.087
+Remove@random(ms): 0.1002
+
+Testing removal on Java ArrayList with N = 100
+Remove@start(ms): 0.0743
+Remove@end(ms): 0.0463
+Remove@random(ms): 0.0924
+
+Testing removal on Java LinkedList with N = 100
+Remove@start(ms): 0.0628
+Remove@end(ms): 0.0617
+Remove@random(ms): 0.095
+
+Testing random value removal on MyArrayList with N = 100
+Remove by value(ms): 1.3964
+
+Testing random value removal on MyLinkedList with N = 100
+Remove by value(ms): 0.6673
+
+Testing random value removal on Java ArrayList with N = 100
+Remove by value(ms): 0.6257
+
+Testing random value removal on Java LinkedList with N = 100
+Remove by value(ms): 0.6525
+--------------------------------------
+Testing N = 1000
+
+Testing MyArrayList with N = 1000
+Insert@start(ms): 8.5614
+Insert@end(ms): 0.283
+Insert@random(ms): 6.1641
+
+Testing MyLinkedList with N = 1000
+Insert@start(ms): 0.5164
+Insert@end(ms): 0.2911
+Insert@random(ms): 2.4732
+
+Testing Java ArrayList with N = 1000
+Insert@start(ms): 1.1051
+Insert@end(ms): 0.2506
+Insert@random(ms): 0.7054
+
+Testing Java LinkedList with N = 1000
+Insert@start(ms): 0.8442
+Insert@end(ms): 0.2366
+Insert@random(ms): 1.6453
+
+Testing removal on MyArrayList with N = 1000
+Remove@start(ms): 9.3258
+Remove@end(ms): 0.1605
+Remove@random(ms): 5.9334
+
+Testing removal on MyLinkedList with N = 1000
+Remove@start(ms): 0.449
+Remove@end(ms): 0.488
+Remove@random(ms): 1.4982
+
+Testing removal on Java ArrayList with N = 1000
+Remove@start(ms): 1.0207
+Remove@end(ms): 0.1777
+Remove@random(ms): 0.3002
+
+Testing removal on Java LinkedList with N = 1000
+Remove@start(ms): 0.3579
+Remove@end(ms): 0.3164
+Remove@random(ms): 0.7593
+
+Testing random value removal on MyArrayList with N = 1000
+Remove by value(ms): 19.5704
+
+Testing random value removal on MyLinkedList with N = 1000
+Remove by value(ms): 15.1563
+
+Testing random value removal on Java ArrayList with N = 1000
+Remove by value(ms): 11.2074
+
+Testing random value removal on Java LinkedList with N = 1000
+Remove by value(ms): 16.4377
+--------------------------------------
+Testing N = 10000
+
+Testing MyArrayList with N = 10000
+Insert@start(ms): 263.6955
+Insert@end(ms): 2.1834
+Insert@random(ms): 155.5688
+
+Testing MyLinkedList with N = 10000
+Insert@start(ms): 1.3143
+Insert@end(ms): 1.7529
+Insert@random(ms): 395.2633
+
+Testing Java ArrayList with N = 10000
+Insert@start(ms): 12.453
+Insert@end(ms): 0.9293
+Insert@random(ms): 6.738
+
+Testing Java LinkedList with N = 10000
+Insert@start(ms): 1.7043
+Insert@end(ms): 0.804
+Insert@random(ms): 174.6092
+
+Testing removal on MyArrayList with N = 10000
+Remove@start(ms): 329.2291
+Remove@end(ms): 1.7781
+Remove@random(ms): 174.3701
+
+Testing removal on MyLinkedList with N = 10000
+Remove@start(ms): 0.4955
+Remove@end(ms): 0.5628
+Remove@random(ms): 64.4881
+
+Testing removal on Java ArrayList with N = 10000
+Remove@start(ms): 7.5604
+Remove@end(ms): 0.4095
+Remove@random(ms): 5.4454
+
+Testing removal on Java LinkedList with N = 10000
+Remove@start(ms): 0.8451
+Remove@end(ms): 0.9403
+Remove@random(ms): 65.3111
+
+Testing random value removal on MyArrayList with N = 10000
+Remove by value(ms): 252.2274
+
+Testing random value removal on MyLinkedList with N = 10000
+Remove by value(ms): 394.2128
+
+Testing random value removal on Java ArrayList with N = 10000
+Remove by value(ms): 218.2961
+
+Testing random value removal on Java LinkedList with N = 10000
+Remove by value(ms): 393.5188
+--------------------------------------
+Testing N = 100000
+
+Testing MyArrayList with N = 100000
+Insert@start(ms): 28702.8877
+Insert@end(ms): 7.8556
+Insert@random(ms): 17289.0995
+
+Testing MyLinkedList with N = 100000
+Insert@start(ms): 3.9054
+Insert@end(ms): 11.6751
+Insert@random(ms): 84984.7076
+
+Testing Java ArrayList with N = 100000
+Insert@start(ms): 911.4286
+Insert@end(ms): 4.5811
+Insert@random(ms): 430.915
+
+Testing Java LinkedList with N = 100000
+Insert@start(ms): 4.7782
+Insert@end(ms): 3.9331
+Insert@random(ms): 33668.086
+
+Testing removal on MyArrayList with N = 100000
+Remove@start(ms): 20459.2082
+Remove@end(ms): 0.5565
+Remove@random(ms): 9988.519
+
+Testing removal on MyLinkedList with N = 100000
+Remove@start(ms): 0.6378
+Remove@end(ms): 1.1762
+Remove@random(ms): 6245.0974
+
+Testing removal on Java ArrayList with N = 100000
+Remove@start(ms): 621.8827
+Remove@end(ms): 1.2021
+Remove@random(ms): 265.0645
+
+Testing removal on Java LinkedList with N = 100000
+Remove@start(ms): 1.9851
+Remove@end(ms): 2.9225
+Remove@random(ms): 5231.7287
+
+Testing random value removal on MyArrayList with N = 100000
+Remove by value(ms): 14498.8355
+
+Testing random value removal on MyLinkedList with N = 100000
+Remove by value(ms): 25909.098
+
+Testing random value removal on Java ArrayList with N = 100000
+Remove by value(ms): 11116.5879
+
+Testing random value removal on Java LinkedList with N = 100000
+Remove by value(ms): 22827.6006
+--------------------------------------
+Testing N = 1000000
